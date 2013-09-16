@@ -1,6 +1,5 @@
 require 'rack'
 require 'puppet/util/command_line'
-require 'puppet/network/http'
 
 class ManifestRouter
 
